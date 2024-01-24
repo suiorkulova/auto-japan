@@ -1,0 +1,328 @@
+.aside-center-div {
+  display: flex;
+  align-items: center;
+  gap: 33px;
+  margin-top: 30px;
+}
+
+.acide-div-backg {
+  width: 280px;
+  height: 236px;
+  border-radius: 12px;
+  background: #f5f7f9;
+}
+
+.aside-div-disply {
+  margin-left: 20pc;
+  margin-top: 5pc;
+}
+
+.Почему-aside {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 30px;
+}
+
+.Сделав-p {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  margin-top: 1pc;
+  line-height: 162.2%;
+}
+
+.shield-cd {
+  margin-top: 3pc;
+  margin-left: 2pc;
+}
+
+.aside-container {
+  margin-top: 2pc;
+  margin-left: 2pc;
+}
+
+.Надежность-aside {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  line-height: 162%;
+}
+
+.aside-Более {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  line-height: 162%;
+  margin-top: 10px;
+}
+
+.Токидоки-top {
+  margin-top: 4pc;
+}
+
+.display-aside-center {
+  position: relative;
+  top: 27px;
+}
+
+.display-aside-center {
+  display: flex;
+  flex-direction: column;
+}
+
+.rectandleimg {
+  position: relative;
+  top: 2pc;
+}
+
+.src-img {
+  margin-left: 300px;
+}
+
+.color-aside {
+  width: 300px;
+  height: 300px;
+  background: #07f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  bottom: 19pc;
+  left: 300px;
+}
+
+.class14 {
+  color: #fff;
+  font-family: "Gotham Pro";
+  font-size: 35px;
+  margin-top: 1pc;
+}
+
+.подписчиков {
+  color: #fff;
+  font-family: "Gotham Pro";
+  font-size: 35px;
+}
+
+.tik-tok {
+  color: #fff;
+  font-family: "Gotham Pro";
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+.Article-url-img {
+  background-color: rgba(0, 0, 0, 0.596);
+  width: 1835px;
+  height: 469px;
+  position: relative;
+  bottom: 200px;
+}
+
+.Как-h1 {
+  text-align: center;
+  color: #fff;
+  text-align: center;
+  font-family: "Gotham Pro";
+  font-size: 30px;
+  position: relative;
+  top: 40px;
+}
+
+.display-justiful-article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+  gap: 160px;
+}
+
+.white-h1 {
+  color: #71737c;
+  font-family: "Gotham Pro";
+  font-size: 100px;
+  margin-left: 30px;
+}
+
+.white-h1:hover {
+  color: #dd392b;
+  cursor: pointer;
+}
+
+.white-p {
+  color: #fff;
+  font-family: "Gotham Pro";
+  font-size: 16px;
+  text-align: center;
+  line-height: 139.7%;
+}
+
+.left-button {
+  margin-left: 260px;
+  margin-top: 60px;
+}
+
+.заявку-article {
+  border-radius: 80px;
+  background: #dd392b;
+  width: 191px;
+  height: 46px;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.hrwe {
+  width: 875px;
+  stroke-width: 2px;
+  stroke: #71737c;
+  cursor: pointer;
+  position: relative;
+  bottom: 24px;
+  left: 190px;
+}
+
+.hrwe2 {
+  fill: #3a3c48;
+  stroke-width: 2px;
+  stroke: #71737c;
+  width: 16px;
+  height: 16px;
+  border-radius: 20px;
+}
+
+.hers-center {
+  display: flex;
+  align-items: center;
+  gap: 180px;
+  position: relative;
+  bottom: 33px;
+  margin-left: 477px;
+}
+
+.section-center-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 180px;
+  position: relative;
+  bottom: 100px;
+}
+
+.авто-order {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 30px;
+}
+
+.европейской-order {
+  margin-top: 30px;
+  color: #000;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.японских-order {
+  line-height: 22px;
+  color: #000;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.Японии-order {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+.Цены-order {
+  color: #000;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  margin-top: 20px;
+  line-height: 22px;
+}
+
+.Составить-order {
+  color: #000;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  margin-top: 20px;
+  line-height: 22px;
+}
+
+.order-color-bg {
+  width: 437px;
+  height: 415px;
+  border-radius: 16px;
+  background: #f5f7f9;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Подпишитесь-h3 {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 30px;
+}
+
+.Получайте-p {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.input-order {
+  width: 257px;
+  height: 51px;
+  border-radius: 53px;
+  background: #f5f7f9;
+  border: none;
+  color: #81828f;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.Подписаться-btn {
+  border-radius: 68px;
+  background: #54ba2d;
+  width: 257px;
+  height: 52px;
+  border: none;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.centei-justefyl-div {
+  display: flex;
+  align-items: center;
+  /* flex-direction: column; */
+  gap: 19px;
+  margin-top: 30px;
+}
+
+.order-jystrful-order {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.order-color-white {
+  border-radius: 14px;
+  background: #f5f7f9;
+  width: 135.086px;
+  height: 117px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

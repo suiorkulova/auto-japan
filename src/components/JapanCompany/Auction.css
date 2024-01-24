@@ -1,0 +1,206 @@
+.auction-section-div {
+  margin-left: 320px;
+  margin-top: 50px;
+}
+
+.auction-Сейчас {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 30px;
+}
+
+.auction-bacraunt {
+  width: 1199px;
+  height: 230px;
+  border-radius: 18px;
+  border: 2px solid #e8eef3;
+  margin-top: 40px;
+}
+
+.auction-div {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.TAA-auction {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  line-height: 200%;
+}
+
+.Лот-auction {
+  color: #dd392b;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  line-height: 200%;
+}
+
+.p-2019 {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  line-height: 200%;
+}
+
+.hrs {
+  width: 1px;
+  height: 140px;
+  background: #e8eef3;
+}
+
+.Nissan-auction {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 20px;
+  line-height: 194.5%;
+}
+
+.Package-auction {
+  color: #81828f;
+  font-family: "Gotham Pro";
+  font-size: 16px;
+  line-height: 194.5%;
+}
+
+.Кузов-auction {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  line-height: 200%;
+}
+
+.div-top {
+  margin-top: 60px;
+}
+
+.span-N17 {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  margin-left: 30px;
+  line-height: 200%;
+}
+
+.hre {
+  width: 1px;
+  height: 75px;
+  background: #e8eef3;
+  margin-top: 70px;
+}
+
+.button-Смотреть {
+  width: 187px;
+  height: 46px;
+  fill: #f5f7f9;
+  border: none;
+  color: #dd392b;
+  text-align: center;
+  font-family: "Gotham Pro";
+  font-size: 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 90px;
+}
+
+.btn-center-Смотреть {
+  border-radius: 68px;
+  background: #dd392b;
+  width: 333px;
+  height: 52px;
+  color: #fff;
+  text-align: center;
+  font-family: "Gotham Pro";
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  margin-left: 450px;
+  margin-top: 35px;
+}
+
+.Автомобили-customer {
+  margin-left: 320px;
+  margin-top: 80px;
+}
+
+.customercasr-backg-div {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 23px;
+  margin-top: 50px;
+}
+
+.route-bac-div {
+  width: 109px;
+  height: 35px;
+  border-radius: 35px;
+  background: #dd392b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: white;
+  cursor: pointer;
+  position: relative;
+  bottom: 60px;
+  left: 160px;
+}
+
+.route-bac-div2 {
+  border-radius: 35px;
+  background: #54ba2d;
+  width: 145px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: white;
+  cursor: pointer;
+  position: relative;
+  bottom: 60px;
+  left: 120px;
+}
+
+.customer-div-bottom {
+  position: relative;
+  bottom: 20px;
+}
+
+.Nissan-h5 {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.Nissan-h5:hover {
+  color: #dd392b;
+}
+
+.Обьем-span-customer {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+}
+
+.centr-center-coustomer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.button-все-center {
+  width: 170px;
+  height: 50px;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  background-color: #dd392b;
+  cursor: pointer;
+}
